@@ -1,0 +1,2 @@
+{"doctor": "Dr. Gupta", "rating": -1, "wait_time": "excessively long", "comments": "Patient had a very poor experience, felt that the wait time was too long and Dr. Gupta's communication was extremely dissatisfying. Patient mentioned they could have come the next day and still not met the doctor."}
+{"doctor": "Dr. Gupta", "rating": 2, "wait_time": "too long", "comments": "Implement a proper queue for checking in with patients to reduce wait time"}
